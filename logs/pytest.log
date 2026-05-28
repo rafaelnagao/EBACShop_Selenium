@@ -1,0 +1,5 @@
+2026-05-28 18:45:45 | INFO | Test_01Home_Check | Home page title: EBAC – Shop – Página de teste
+2026-05-28 18:45:57 | INFO | Test_01Home_Check | Home page URL: http://lojaebac.ebaconline.art.br/#
+2026-05-28 18:46:09 | INFO | pages.home_page | ('css selector', 'img.logo-img') -> found=2, visible=1
+2026-05-28 18:46:21 | INFO | pages.home_page | ('css selector', 'button[data-target^="#searchformshow-"]') -> found=3, visible=1
+2026-05-28 18:46:34 | INFO | pages.home_page | ('css selector', 'a.dropdown-toggle.mini-cart') -> found=1, visible=1
