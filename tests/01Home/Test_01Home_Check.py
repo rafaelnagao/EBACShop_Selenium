@@ -32,3 +32,19 @@ class Test_HomeCheck:
     def test_cart_link_displayed(self):
         home_page = HomePage(self.driver)
         assert home_page.is_cart_link_displayed(), "Cart link should be displayed on the home page"
+
+    def test_navigation_menu_displayed(self):
+        home_page = HomePage(self.driver)
+        assert home_page.is_navigation_menu_displayed(), "Navigation menu should be displayed on the home page"
+
+    def test_products_section_displayed(self):
+        home_page = HomePage(self.driver)
+        assert home_page.is_products_section_displayed(), "Products section should be displayed on the home page"
+
+    def test_footer_displayed(self):
+        home_page = HomePage(self.driver)
+        assert home_page.is_footer_displayed(), "Footer should be displayed on the home page"
+
+    def test_sidebar_displayed(self):
+        home_page = HomePage(self.driver)
+        assert home_page.is_sidebar_displayed(), "Sidebar should be displayed on the home page"

@@ -32,3 +32,62 @@
 2026-05-28 18:46:09,715 | INFO | pages.home_page | ('css selector', 'img.logo-img') -> found=2, visible=1
 2026-05-28 18:46:21,812 | INFO | pages.home_page | ('css selector', 'button[data-target^="#searchformshow-"]') -> found=3, visible=1
 2026-05-28 18:46:34,017 | INFO | pages.home_page | ('css selector', 'a.dropdown-toggle.mini-cart') -> found=1, visible=1
+2026-06-18 15:54:30,010 | INFO | Test_01Home_Check | Home page title: EBAC – Shop – Página de teste
+2026-06-18 15:54:42,469 | INFO | Test_01Home_Check | Home page URL: http://lojaebac.ebaconline.art.br/#
+2026-06-18 15:54:54,837 | INFO | pages.home_page | ('css selector', 'img.logo-img') -> found=2, visible=1
+2026-06-18 15:55:07,095 | INFO | pages.home_page | ('css selector', 'button[data-target^="#searchformshow-"]') -> found=3, visible=1
+2026-06-18 15:55:19,791 | INFO | pages.home_page | ('css selector', 'a.dropdown-toggle.mini-cart') -> found=1, visible=1
+2026-06-18 16:06:55,309 | INFO | Test_01Home_Check | Home page title: EBAC – Shop – Página de teste
+2026-06-18 16:07:07,337 | INFO | Test_01Home_Check | Home page URL: http://lojaebac.ebaconline.art.br/#
+2026-06-18 16:07:19,873 | INFO | pages.home_page | ('css selector', 'img.logo-img') -> found=2, visible=1
+2026-06-18 16:07:32,126 | INFO | pages.home_page | ('css selector', 'button[data-target^="#searchformshow-"]') -> found=3, visible=1
+2026-06-18 16:07:44,834 | INFO | pages.home_page | ('css selector', 'a.dropdown-toggle.mini-cart') -> found=1, visible=1
+2026-06-18 16:07:56,821 | INFO | pages.home_page | ('css selector', 'nav#site-navigation') -> found=0, visible=0
+2026-06-18 16:10:47,015 | INFO | Test_01Home_Check | Home page title: EBAC – Shop – Página de teste
+2026-06-18 16:10:59,449 | INFO | Test_01Home_Check | Home page URL: http://lojaebac.ebaconline.art.br/#
+2026-06-18 16:11:11,778 | INFO | pages.home_page | ('css selector', 'img.logo-img') -> found=2, visible=1
+2026-06-18 16:11:23,831 | INFO | pages.home_page | ('css selector', 'button[data-target^="#searchformshow-"]') -> found=3, visible=1
+2026-06-18 16:11:36,103 | INFO | pages.home_page | ('css selector', 'a.dropdown-toggle.mini-cart') -> found=1, visible=1
+2026-06-18 16:11:48,287 | INFO | pages.home_page | ('css selector', '#primary-menu') -> found=1, visible=1
+2026-06-18 16:15:20,893 | INFO | Test_01Home_Check | Home page title: EBAC – Shop – Página de teste
+2026-06-18 16:15:33,401 | INFO | Test_01Home_Check | Home page URL: http://lojaebac.ebaconline.art.br/#
+2026-06-18 16:15:46,290 | INFO | pages.home_page | ('css selector', 'img.logo-img') -> found=2, visible=1
+2026-06-18 16:15:58,523 | INFO | pages.home_page | ('css selector', 'button[data-target^="#searchformshow-"]') -> found=3, visible=1
+2026-06-18 16:16:10,959 | INFO | pages.home_page | ('css selector', 'a.dropdown-toggle.mini-cart') -> found=1, visible=1
+2026-06-18 16:16:23,284 | INFO | pages.home_page | ('css selector', '#primary-menu') -> found=1, visible=1
+2026-06-18 16:16:35,878 | INFO | pages.home_page | ('css selector', '#main > div.vc_row.wpb_row.vc_row-fluid.vc_custom_1503474667302 > div') -> found=1, visible=1
+2026-06-18 18:15:02,333 | INFO | Test_01Home_Check | Home page title: EBAC – Shop – Página de teste
+2026-06-18 18:15:14,673 | INFO | Test_01Home_Check | Home page URL: http://lojaebac.ebaconline.art.br/#
+2026-06-18 18:15:26,625 | INFO | pages.home_page | ('css selector', 'img.logo-img') -> found=2, visible=1
+2026-06-18 18:15:39,213 | INFO | pages.home_page | ('css selector', 'button[data-target^="#searchformshow-"]') -> found=3, visible=1
+2026-06-18 18:15:51,673 | INFO | pages.home_page | ('css selector', 'a.dropdown-toggle.mini-cart') -> found=1, visible=1
+2026-06-18 18:16:04,169 | INFO | pages.home_page | ('css selector', '#primary-menu') -> found=1, visible=1
+2026-06-18 18:16:16,270 | INFO | pages.home_page | ('css selector', '#main > div.vc_row.wpb_row.vc_row-fluid.vc_custom_1503474667302 > div') -> found=1, visible=1
+2026-06-18 18:16:28,559 | INFO | pages.home_page | ('css selector', '#tbay-footer > div > div > div > div') -> found=1, visible=1
+2026-06-18 18:18:08,286 | INFO | Test_01Home_Check | Home page title: EBAC – Shop – Página de teste
+2026-06-18 18:18:20,454 | INFO | Test_01Home_Check | Home page URL: http://lojaebac.ebaconline.art.br/#
+2026-06-18 18:18:32,826 | INFO | pages.home_page | ('css selector', 'img.logo-img') -> found=2, visible=1
+2026-06-18 18:18:45,183 | INFO | pages.home_page | ('css selector', 'button[data-target^="#searchformshow-"]') -> found=3, visible=1
+2026-06-18 18:18:57,214 | INFO | pages.home_page | ('css selector', 'a.dropdown-toggle.mini-cart') -> found=1, visible=1
+2026-06-18 18:19:09,560 | INFO | pages.home_page | ('css selector', '#primary-menu') -> found=1, visible=1
+2026-06-18 18:19:21,840 | INFO | pages.home_page | ('css selector', '#main > div.vc_row.wpb_row.vc_row-fluid.vc_custom_1503474667302 > div') -> found=1, visible=1
+2026-06-18 18:19:34,134 | INFO | pages.home_page | ('css selector', '#tbay-footer > div > div > div > div') -> found=1, visible=1
+2026-06-18 18:19:46,260 | INFO | pages.home_page | ('css selector', '#wrapper-container > div.tbay-to-top.v4.active') -> found=0, visible=0
+2026-06-18 18:33:55,784 | INFO | Test_01Home_Check | Home page title: EBAC – Shop – Página de teste
+2026-06-18 18:34:09,658 | INFO | Test_01Home_Check | Home page URL: http://lojaebac.ebaconline.art.br/#
+2026-06-18 18:34:21,891 | INFO | pages.home_page | ('css selector', 'img.logo-img') -> found=2, visible=1
+2026-06-18 18:34:33,857 | INFO | pages.home_page | ('css selector', 'button[data-target^="#searchformshow-"]') -> found=3, visible=1
+2026-06-18 18:34:46,004 | INFO | pages.home_page | ('css selector', 'a.dropdown-toggle.mini-cart') -> found=1, visible=1
+2026-06-18 18:34:58,204 | INFO | pages.home_page | ('css selector', '#primary-menu') -> found=1, visible=1
+2026-06-18 18:35:10,315 | INFO | pages.home_page | ('css selector', '#main > div.vc_row.wpb_row.vc_row-fluid.vc_custom_1503474667302 > div') -> found=1, visible=1
+2026-06-18 18:35:22,726 | INFO | pages.home_page | ('css selector', '#tbay-footer > div > div > div > div') -> found=1, visible=1
+2026-06-18 18:35:35,023 | INFO | pages.home_page | ('css selector', '#wrapper-container > div.tbay-to-top.v4.active') -> found=0, visible=0
+2026-06-18 18:37:46,798 | INFO | Test_01Home_Check | Home page title: EBAC – Shop – Página de teste
+2026-06-18 18:37:59,290 | INFO | Test_01Home_Check | Home page URL: http://lojaebac.ebaconline.art.br/#
+2026-06-18 18:38:11,760 | INFO | pages.home_page | ('css selector', 'img.logo-img') -> found=2, visible=1
+2026-06-18 18:38:23,770 | INFO | pages.home_page | ('css selector', 'button[data-target^="#searchformshow-"]') -> found=3, visible=1
+2026-06-18 18:38:36,069 | INFO | pages.home_page | ('css selector', 'a.dropdown-toggle.mini-cart') -> found=1, visible=1
+2026-06-18 18:38:48,146 | INFO | pages.home_page | ('css selector', '#primary-menu') -> found=1, visible=1
+2026-06-18 18:39:00,160 | INFO | pages.home_page | ('css selector', '#main > div.vc_row.wpb_row.vc_row-fluid.vc_custom_1503474667302 > div') -> found=1, visible=1
+2026-06-18 18:39:12,415 | INFO | pages.home_page | ('css selector', '#tbay-footer > div > div > div > div') -> found=1, visible=1
+2026-06-18 18:39:24,926 | INFO | pages.home_page | ('css selector', '#wrapper-container > div.tbay-to-top.v4.active') -> found=1, visible=1
