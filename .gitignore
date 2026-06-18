@@ -3,6 +3,7 @@ screenshots/
 logs/
 __pycache__/
 .pytest_cache/
+*.py[cod]
 *.py[codz]
 *$py.class
 
