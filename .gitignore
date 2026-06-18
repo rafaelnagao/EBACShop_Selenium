@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 screenshots/
-logs/
+logs/*.log
 __pycache__/
 .pytest_cache/
 *.py[cod]
