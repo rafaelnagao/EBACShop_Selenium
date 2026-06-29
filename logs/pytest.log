@@ -1,9 +1,0 @@
-2026-06-18 18:56:12 | INFO | Test_01Home_Check | Home page title: EBAC – Shop – Página de teste
-2026-06-18 18:56:24 | INFO | Test_01Home_Check | Home page URL: http://lojaebac.ebaconline.art.br/#
-2026-06-18 18:56:36 | INFO | pages.home_page | ('css selector', 'img.logo-img') -> found=2, visible=1
-2026-06-18 18:56:48 | INFO | pages.home_page | ('css selector', 'button[data-target^="#searchformshow-"]') -> found=3, visible=1
-2026-06-18 18:57:00 | INFO | pages.home_page | ('css selector', 'a.dropdown-toggle.mini-cart') -> found=1, visible=1
-2026-06-18 18:57:13 | INFO | pages.home_page | ('css selector', '#primary-menu') -> found=1, visible=1
-2026-06-18 18:57:25 | INFO | pages.home_page | ('css selector', '#main > div.vc_row.wpb_row.vc_row-fluid.vc_custom_1503474667302 > div') -> found=1, visible=1
-2026-06-18 18:57:37 | INFO | pages.home_page | ('css selector', '#tbay-footer > div > div > div > div') -> found=1, visible=1
-2026-06-18 18:57:51 | INFO | pages.home_page | ('css selector', '#wrapper-container > div.tbay-to-top.v4.active') -> found=1, visible=1

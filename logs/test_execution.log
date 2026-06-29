@@ -100,3 +100,4 @@
 2026-06-18 18:57:25,681 | INFO | pages.home_page | ('css selector', '#main > div.vc_row.wpb_row.vc_row-fluid.vc_custom_1503474667302 > div') -> found=1, visible=1
 2026-06-18 18:57:37,751 | INFO | pages.home_page | ('css selector', '#tbay-footer > div > div > div > div') -> found=1, visible=1
 2026-06-18 18:57:51,282 | INFO | pages.home_page | ('css selector', '#wrapper-container > div.tbay-to-top.v4.active') -> found=1, visible=1
+2026-06-29 18:15:00,255 | INFO | pages.home_page | ('css selector', '#primary-menu > li.dropdown.active.menu-item-536.aligned-left > ul') -> found=1, visible=1

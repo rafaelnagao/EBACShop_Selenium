@@ -8,14 +8,14 @@ logger = get_logger(__name__)
 @pytest.mark.usefixtures("setup")
 @pytest.mark.home
 @pytest.mark.e2e
-class Test_HomeCheck:
-    def test_home_title(self):
+class TestHomeCheck:
+    def test_title(self):
         home_page = HomePage(self.driver)
         title = home_page.get_home_title()
         logger.info(f"Home page title: {title}")
         assert title == "EBAC – Shop – Página de teste"
     
-    def test_home_url(self):
+    def test_url(self):
         home_page = HomePage(self.driver)
         url = home_page.get_home_url()
         logger.info(f"Home page URL: {url}")
@@ -23,28 +23,28 @@ class Test_HomeCheck:
 
     def test_logo_displayed(self):
         home_page = HomePage(self.driver)
-        assert home_page.is_logo_displayed(), "Logo should be displayed on the home page"
+        assert home_page.is_logo_displayed()
     
     def test_search_icon_displayed(self):
         home_page = HomePage(self.driver)
-        assert home_page.is_search_icon_displayed(), "Search icon should be displayed on the home page"
+        assert home_page.is_search_icon_displayed()
 
     def test_cart_link_displayed(self):
         home_page = HomePage(self.driver)
-        assert home_page.is_cart_link_displayed(), "Cart link should be displayed on the home page"
+        assert home_page.is_cart_link_displayed()
 
     def test_navigation_menu_displayed(self):
         home_page = HomePage(self.driver)
-        assert home_page.is_navigation_menu_displayed(), "Navigation menu should be displayed on the home page"
+        assert home_page.is_navigation_menu_displayed()
 
     def test_products_section_displayed(self):
         home_page = HomePage(self.driver)
-        assert home_page.is_products_section_displayed(), "Products section should be displayed on the home page"
+        assert home_page.is_products_section_displayed()
 
     def test_footer_displayed(self):
         home_page = HomePage(self.driver)
-        assert home_page.is_footer_displayed(), "Footer should be displayed on the home page"
+        assert home_page.is_footer_displayed()
 
     def test_sidebar_displayed(self):
         home_page = HomePage(self.driver)
-        assert home_page.is_sidebar_displayed(), "Sidebar should be displayed on the home page"
+        assert home_page.is_sidebar_displayed()
